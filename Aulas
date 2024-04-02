@@ -1,3 +1,20 @@
 Aula 02 de abril
-Função realloc(X, tamanho novo)
+Função realloc(X, tamanho novo)  \\ Realocação de memória
+Ponteiros e structs
+
+#include<studio.h>
+struct alo{
+int a;
+int b;
+int c;
+float d;
+char e;
+};
+int main(void){
+struct alo a;
+a.a=1;
+printf("tam=%d\n". sizeof(a));
+}
+
+Obs. um char ocupa apenas 1 byte
 
