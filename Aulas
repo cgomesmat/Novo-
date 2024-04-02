@@ -18,3 +18,5 @@ printf("tam=%d\n". sizeof(a));
 
 Obs. um char ocupa apenas 1 byte
 
+FORTRAN =  Formula translation
+
