@@ -20,3 +20,16 @@ Obs. um char ocupa apenas 1 byte
 
 FORTRAN =  Formula translation
 
+
+Aula 04 de abril
+
+Arquivo main.cpp
+#include "funcao.h"
+int x=4;
+std::cout << f(x) << \n";
+
+Arquivo
+
+
+
+
