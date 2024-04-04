@@ -28,7 +28,16 @@ Arquivo main.cpp
 int x=4;
 std::cout << f(x) << \n";
 
-Arquivo
+Arquivo funcao.h
+
+int f(int x);
+
+
+Arquivo funcao.cpp
+
+int f(int x){
+return x+1;
+}
 
 
 
